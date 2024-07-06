@@ -1,30 +1,15 @@
 # shared-social
 
-This template should help get you started developing with Vue 3 in Vite.
+> 소셜 공유하기
 
-## Recommended IDE Setup
+## 1. 카카오톡 공유하기
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[개발가이드](https://developers.kakao.com/docs/latest/ko/message/js-link)
 
-## Customize configuration
+[내 애플리케이션](https://developers.kakao.com/console/app)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- 앱설정
+  - 앱키: API호출 시 사용
+  - 플랫폼: 사이트 도메인 등록
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-# shared-social
+## 2.
