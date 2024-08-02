@@ -4,9 +4,6 @@ import KakaoButton from "./comp/KakaoViewButton.vue";
 
 <template>
   <div class="kakao-page">
-    ?
-    <h1>카카오 공유하기</h1>
-
     <KakaoButton />
   </div>
 </template>

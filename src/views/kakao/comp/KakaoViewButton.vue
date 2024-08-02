@@ -17,7 +17,7 @@ const kakaoShare = () => {
       webUrl: "https://developers.kakao.com",
     },
   };
-  kakaoShare.shareMessage(msg);
+  useKakao.shareMessage(msg);
 };
 </script>
 

@@ -19,6 +19,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       <nav>
         <RouterLink to="/">Overview</RouterLink>
         <RouterLink to="/kakao">카카오</RouterLink>
+        <RouterLink to="/web-share-api">WEB SHARE API</RouterLink>
       </nav>
     </div>
   </header>
